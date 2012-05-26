@@ -1,7 +1,8 @@
 # Terraling seed data
 
 Linguistic data to seed the Terraling project at first run.
-see (https://github.com/linguisticexplorer/Linguistic-Explorer/blob/master/README.markdown)
+
+For more documentation have a look to the [Terraling project page](https://github.com/linguisticexplorer/Linguistic-Explorer/blob/master/README.markdown)
 
 ## License
 
