@@ -1,0 +1,11 @@
+--- 
+user: /absolute/path/to/seed/User.csv
+group: /absolute/path/to/seed/Group.csv
+membership: /absolute/path/to/seed/Membership.csv
+ling: /absolute/path/to/seed/Ling.csv
+category: /absolute/path/to/seed/Category.csv
+property: /absolute/path/to/seed/Property.csv
+example: /absolute/path/to/seed/Example.csv
+lings_property: /absolute/path/to/seed/LingsProperty.csv
+examples_lings_property: /absolute/path/to/seed/ExamplesLingsProperty.csv
+stored_value: /absolute/path/to/seed/StoredValue.csv
